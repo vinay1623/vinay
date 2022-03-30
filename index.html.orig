@@ -6,10 +6,10 @@
 <body>
 
 <p>this is single page in master.</p>
-<<<<<<< HEAD
+
 <p>this file form new-branch.</p>
-=======
+
 <p>this file form new-branch..</p>
->>>>>>> f4cc5da21c5fb0f30ab233b607297a1a1464dbaf
+
 </body>
 </html>
